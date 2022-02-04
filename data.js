@@ -759,7 +759,7 @@ module.exports = [
   {
     name: "Sam Larsen-Disney",
     description:
-      "Sam currently works as a UX Engineer at American Express. He has built new ways to refer friends, onboarding experiences and rapid response systems.",
+      "Sam currently works as a Senior Front-End Engineer at Zone. He has built new ways to refer friends, onboarding experiences and rapid response systems.",
     url: "https://sld.codes/articles",
     twitter: "@SamLarsenDisney",
     tags: [
